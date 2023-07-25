@@ -1,0 +1,41 @@
+2023-07-25 18:08:03,281 [10764] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:10:44,289 [10764] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:11:02,210 [10292] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:11:36,922 [10292] DEBUG    Comm:150: [JupyterRequire] handle_msg[bfd7e526-cd8e-4806-8779-ca11f4dd15a1]({'header': {'date': datetime.datetime(2023, 7, 25, 16, 11, 36, 914000, tzinfo=tzutc()), 'msg_id': '0d25381e1c2048208990c5f58147c9b5', 'username': 'username', 'session': '6b0af61256ae4f87a7fda69740a3d63e', 'msg_type': 'comm_msg', 'version': '5.2'}, 'msg_id': '0d25381e1c2048208990c5f58147c9b5', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'bfd7e526-cd8e-4806-8779-ca11f4dd15a1', 'data': {'method': 'request_states'}}, 'buffers': []})
+2023-07-25 18:11:36,937 [10292] DEBUG    Comm:144: [JupyterRequire] handle_close[bfd7e526-cd8e-4806-8779-ca11f4dd15a1]({'header': {'date': datetime.datetime(2023, 7, 25, 16, 11, 36, 933000, tzinfo=tzutc()), 'msg_id': 'dd2b39067fca4bb6829871830f3e5617', 'username': 'username', 'session': '6b0af61256ae4f87a7fda69740a3d63e', 'msg_type': 'comm_close', 'version': '5.2'}, 'msg_id': 'dd2b39067fca4bb6829871830f3e5617', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'bfd7e526-cd8e-4806-8779-ca11f4dd15a1', 'data': {}}, 'buffers': []})
+2023-07-25 18:12:13,230 [10292] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:16:31,037 [18132] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:21:19,489 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:21:28,528 [7604] DEBUG    matplotlib.pyplot:316: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-07-25 18:21:28,630 [7604] DEBUG    matplotlib.pyplot:316: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-07-25 18:28:00,120 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:28:50,717 [7604] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-25 18:28:50,717 [7604] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-25 18:28:50,717 [7604] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-25 18:28:50,727 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-25 18:28:50,728 [7604] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-25 18:28:50,728 [7604] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-25 18:28:51,229 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-07-25 18:28:51,237 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-07-25 18:28:51,237 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-07-25 18:28:51,247 [7604] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-07-25 18:28:51,529 [7604] DEBUG    matplotlib.pyplot:316: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-07-25 18:31:06,747 [7604] WARNING  py.warnings:109: [JupyterRequire] C:\Users\JASNYP\AppData\Local\Temp\ipykernel_7604\503401136.py:1: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
+  df.columns = df.columns.str.replace('.', '_').str.lower()
+
+2023-07-25 18:31:24,437 [7604] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-07-25 18:31:24,441 [7604] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-07-25 18:31:24,441 [7604] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-07-25 18:31:24,442 [7604] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 18:31:24,442 [7604] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-07-25 18:31:24,767 [7604] DEBUG    parso.cache:166: [JupyterRequire] pickle loaded: C:\Users\JASNYP\Desktop\Python Projects\coffee_reviews\venv\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-07-25 18:31:24,907 [7604] DEBUG    parso.cache:166: [JupyterRequire] pickle loaded: C:\Users\JASNYP\Desktop\Python Projects\coffee_reviews\venv\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-07-25 18:31:34,842 [7604] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-07-25 18:31:34,847 [7604] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-07-25 18:31:34,847 [7604] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-07-25 18:31:34,848 [7604] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 18:31:34,848 [7604] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-07-25 18:31:35,022 [7604] DEBUG    parso.cache:166: [JupyterRequire] pickle loaded: C:\Users\JASNYP\AppData\Local\Programs\Python\Python310\lib\typing.py
+2023-07-25 18:31:35,159 [7604] DEBUG    parso.cache:166: [JupyterRequire] pickle loaded: C:\Users\JASNYP\Desktop\Python Projects\coffee_reviews\venv\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-07-25 18:32:04,692 [7604] DEBUG    matplotlib.pyplot:316: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-07-25 18:32:15,877 [7604] DEBUG    matplotlib.pyplot:316: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
