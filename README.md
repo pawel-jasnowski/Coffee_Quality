@@ -1,4 +1,4 @@
-# Project Name
+
 ### Coffee Quality Analysis
 
 ## Table of contents
