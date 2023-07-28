@@ -24,19 +24,19 @@ The dataset is available in a csv file [link](https://github.com/jldbc/coffee-qu
 
 ## Technology stack
 
-### Computing platform
+### 1) Computing platform
 
 - [Jupyter Notebook](https://jupyter.org/)
 
-### Packages for data pre-processing
+### 2) Packages for data pre-processing
 
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 
-### Data visualisation tool
+### 3) Data visualisation tool
 
 - [Pandas plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
-- [Power BI](https://www.microsoft.com/pl-pl/download/details.aspx?id=58494)
+- [Tableau](https://www.tableau.com/)
 
 ## Project status
 
@@ -47,7 +47,7 @@ Project is: *completed*
 In the future, the project can be improved by:
 - adding more 'quality coffee' data from more other sources
 - adding more analyses 
-- extending the dataset to coffee consumption / import / export etc.
+- extending the dataset to coffee consumption / import / export etc. (next project ahead)
 
 ## Contact
 
