@@ -32,10 +32,12 @@ The dataset is available in a csv file [link](https://github.com/jldbc/coffee-qu
 
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
+- [Pandas profiling](https://pypi.org/project/pandas-profiling/)
 
 ### 3) Data visualisation tool
 
 - [Pandas plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
+- [Seaborn](https://seaborn.pydata.org/)
 - [Tableau](https://www.tableau.com/)
 
 ## Project status
