@@ -47,7 +47,7 @@ The dataset is available in a csv file [link](https://github.com/jldbc/coffee-qu
 
 ## Project status
 
-Project is: *uncopleted* - Visualisation to come in few days / 28.07.2023 / 
+Project is: *uncompleted* - Visualisation to come in few days / 28.07.2023 / 
 
 ## Room for Improvement
 
