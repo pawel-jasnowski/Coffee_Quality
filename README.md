@@ -7,7 +7,6 @@
 * [Technology stack](#technology_stack)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General Information
@@ -21,13 +20,12 @@ Dataset contain information about coffee country of origin / name of the produce
 
 #### 2) Dataset for analysis
 
-The dataset is available in a csv file [link](https://github.com/jldbc/coffee-quality-database)
+The dataset is available in a csv file [link](https://github.com/jldbc/coffee-quality-database/tree/master/data)
 
 ## Technology stack
 
 ### Computing platform
 
-- [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
 - [Jupyter Notebook](https://jupyter.org/)
 
 ### Packages for data pre-processing
@@ -47,16 +45,10 @@ Project is: *completed*
 ## Room for Improvement
 
 In the future, the project can be improved by:
-- adding more data from more other sources
-- adding more analyses by region or country level  
-- extending the dataset not only to coffee, but also to products such as tea or yerba mate
-
-## Acknowledgements
-
+- adding more 'quality coffee' data from more other sources
+- adding more analyses 
+- extending the dataset to coffee consumption / import / export etc.
 
 ## Contact
 
-
-Created by [MSI17819](https://github.com/MSI17819)
-
-Feel free to contact me: *123michal86@gmail.com*, [Kaggel](https://www.kaggle.com/michals22), [Linkedin](https://www.linkedin.com/in/micha%C5%82-sikora/)
+Feel free to contact me: *pawel.jasnowski@gmail.com*, [Linkedin](https://www.linkedin.com/in/pawel-jasnowski/)
