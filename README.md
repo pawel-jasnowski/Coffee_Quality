@@ -5,6 +5,7 @@
 * [General Info](#general-information)
 * [Dataset](#dataset)
 * [Technology stack](#technology-stack)
+* [Tableau].(#tableau)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
@@ -45,9 +46,12 @@ The dataset is available in a csv file [link](https://github.com/jldbc/coffee-qu
 - [Seaborn](https://seaborn.pydata.org/)
 - [Tableau](https://www.tableau.com/)
 
+## Tableau
+ - Link to the public tableau viz - (https://public.tableau.com/app/profile/pawe.jasnowski/viz/qualitycoffeeanalyst_1/Story1)
+
 ## Project status
 
-Project is: *uncompleted* - Visualisation to come in few days / last update 28.07.2023 / 
+Project is: *uncompleted* - completed 06/08/2023
 
 ## Room for Improvement
 
