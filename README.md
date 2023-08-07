@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General Information
-Simple coffee quality analysis from dataset available from Coffee Quality Institute - from January 2018. Dataset was done by James LeDoux - https://github.com/jldbc/coffee-quality-database. I'm interested only in arabica coffee and its quality. I would like to explore this dataset and see what stands behind quality points of some arabica coffee. Each coffee in this dataset has been reviewed by Coffee Cuper - specialized reviewer that gives coffee quality points.
+Simple coffee quality analysis from dataset available from Coffee Quality Institute - from January 2018. Dataset was done by James LeDoux - https://github.com/jldbc/coffee-quality-database. I'm interested only in arabica coffee and its quality. I would like to explore this dataset and see what stands behind quality points of some arabica coffee. Each coffee in this dataset has been reviewed by Coffee Cuper - specialized reviewer that gives coffee quality points. Dataset is precleaned - but I have done some extra cleaning.
 
 Notebook with all preprocessing steps:
 - data preprocessing and cleaning
